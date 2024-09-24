@@ -1,0 +1,26 @@
+.Mision{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.MisionTitulo{
+    margin: 4rem 0rem 0rem;
+    background-color: #356E48;
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    filter: drop-shadow(0 2px  10px rgba(0, 0, 0, 0.582));
+    z-index: 2;
+}
+
+.MisionTexto{
+    margin: 0rem 2rem 4rem;
+    background-color: #356E48;
+    color: white;
+    border-radius: 10px;
+    padding: 2rem;
+    filter: drop-shadow(0 2px  10px rgba(0, 0, 0, 0.582));
+
+}

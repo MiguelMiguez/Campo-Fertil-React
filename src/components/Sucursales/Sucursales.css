@@ -1,0 +1,28 @@
+.Sucursales{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.InfoSucursales{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #356E48;;
+}
+
+.TituloSucursales{
+    font-size: 2rem;
+    font-weight: 900;
+    margin: 2rem 0rem;
+}
+
+.TextoSucursales{
+    margin: 0rem 2rem 2rem;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
