@@ -1,21 +1,30 @@
-import React from 'react'
+import React from 'react';
+import './ComponenteSucursal.css';
 
-const ComponenteSucursal = () => {
+const ComponenteSucursal = ({ nombresucursal, informacion }) => {
   return (
     <div className='ComponenteSucursal'>
-        <h2 className="NombreSucursal"></h2>
-        <hr/>
-        <div className="InformacionDireccion">
-            <img src="" alt="" />
-            <div className="ContainerDireccion">
-                <h3>Dirección</h3>
-                <p></p>
+      <p className="TituloSucursal">Sucursales</p>
+      <h2 className="NombreSucursal">{nombresucursal}</h2>
+      <hr />
+      <div className="Informacion">
+        {informacion.map((item, index) => (
+          <div key={index} className="ContainerInformacion">
+            <img
+              src={item.imagen}
+              alt={item.tituloinformacion}
+              className="InformacionImagen"
+            />
+            <div>
+              <h3 className='TituloInformacion'>{item.tituloinformacion}</h3>
+              <p className="InformacionSucursales">{item.informacionsucursales}</p>
+              {item.ubicacion && <p className="InformacionSucursales">{item.ubicacion}</p>}
             </div>
-        </div>
-        <div className="InformacionEmail"></div>
-        <div className="InformacionTelefono"></div>
+          </div>
+        ))}
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default ComponenteSucursal
+export default ComponenteSucursal;

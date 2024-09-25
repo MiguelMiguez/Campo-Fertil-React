@@ -11,7 +11,7 @@ const Navbar = () => {
     };
   
     const handleScroll = () => {
-      const servicesSection = document.getElementById('ServiciosSeccion');
+      const servicesSection = document.getElementById('Mision');
       const servicesTop = servicesSection?.offsetTop || 0;
   
       if (window.scrollY >= servicesTop) {

@@ -1,0 +1,46 @@
+{
+  "nombresucursal": [
+    {
+      "nombre": "Casa Central"
+    },
+    {
+      "nombre": "Valle María"
+    }
+  ],
+  "informacionvillaguay": [
+    {
+      "imagen": "public/contacto/adress.png",
+      "tituloinformacion": "Dirección",
+      "informacionsucursales": "Acceso Carlos Fuertes KM 159.64",
+      "ubicacion": "Villaguay - Entre Ríos"
+    },
+    {
+      "imagen": "public/contacto/email.png",
+      "tituloinformacion": "Email",
+      "informacionsucursales": "administracion@campofertilsrl.com"
+    },
+    {
+      "imagen": "public/contacto/phone.png",
+      "tituloinformacion": "Teléfono",
+      "informacionsucursales": "3455-528448"
+    }
+  ],
+  "informacionvallemaria": [
+    {
+      "imagen": "public/contacto/adress.png",
+      "tituloinformacion": "Dirección",
+      "informacionsucursales": "Ruta 11 KM 31.5",
+      "ubicacion": "Valle María - Entre Ríos"
+    },
+    {
+      "imagen": "public/contacto/email.png",
+      "tituloinformacion": "Email",
+      "informacionsucursales": "vallemaria@campofertilsrl.com"
+    },
+    {
+      "imagen": "public/contacto/phone.png",
+      "tituloinformacion": "Teléfono",
+      "informacionsucursales": "3435-003975"
+    }
+  ]
+}

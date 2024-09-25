@@ -1,0 +1,50 @@
+.ComponenteSucursal{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1.2rem;
+    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    border-radius: 8px;
+}
+
+hr{ 
+    background-color: black;
+    width: 100%;
+    height: 1px;
+}
+
+.ContainerInformacion{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    gap: 1rem;
+    margin: 0rem 0rem 4rem;
+}
+
+.InformacionImagen{
+    width: 32px;
+    height: 32px;
+    
+}
+
+.TituloSucursal{
+    color: #FE6600;
+}
+
+.NombreSucursal{
+    font-weight: 600;
+    color: #00471A;
+    font-size: 1.3rem;
+}
+
+.TituloInformacion{
+    font-weight: 600;
+    font-size: 1rem;
+    margin: 0rem 0rem 0.5rem;
+}
+
+.InformacionSucursales{
+    font-size: 0.9rem;
+}
+
