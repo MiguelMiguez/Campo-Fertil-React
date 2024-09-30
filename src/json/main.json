@@ -43,6 +43,14 @@
       "tituloinformacion": "Teléfono",
       "informacionsucursales": "3435-003975"
     }
-    
+   
+  ],
+  "mapa": [
+    {
+      "vallemaria": "https://www.google.com/maps?ll=-32.002122,-60.58618&z=22&t=m&hl=es&gl=AR&mapclient=embed"
+    },
+    {
+      "villaguay": "https://www.google.com/maps/place/Campo+F%C3%A9rtil+SRL/@-31.811887,-59.027127,17z/data=!4m6!3m5!1s0x95b180add58fcc51:0x8d664ba116f3b9e9!8m2!3d-31.8118867!4d-59.0271266!16s%2Fg%2F11hb28qmql?hl=es&entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D"
+    }
   ]
 }
