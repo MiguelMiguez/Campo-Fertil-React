@@ -52,5 +52,58 @@
     {
       "villaguay": "https://www.google.com/maps/place/Campo+F%C3%A9rtil+SRL/@-31.811887,-59.027127,17z/data=!4m6!3m5!1s0x95b180add58fcc51:0x8d664ba116f3b9e9!8m2!3d-31.8118867!4d-59.0271266!16s%2Fg%2F11hb28qmql?hl=es&entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D"
     }
+  ],
+  "logosinsumos": [
+    {
+      "imagen": "public/LogosInsumos/bayer.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/fmc.svg"
+    },
+    {
+      "imagen": "public/LogosInsumos/alz.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/amauta.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/atanor.svg"
+    },
+    {
+      "imagen": "public/LogosInsumos/desger.webp"
+    },
+    {
+      "imagen": "public/LogosInsumos/dva.svg"
+    },
+    {
+      "imagen": "public/LogosInsumos/latijereta.svg"
+    },
+    {
+      "imagen": "public/LogosInsumos/nord.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/nova.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/peyte.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/rizobacter.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/ruralco.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/speedagro.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/spraytec.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/surcos.png"
+    },
+    {
+      "imagen": "public/LogosInsumos/bunge.png"
+    }
   ]
 }

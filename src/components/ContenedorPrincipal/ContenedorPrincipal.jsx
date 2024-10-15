@@ -3,14 +3,16 @@ import './ContenedorPrincipal.css'
 import Mision from '../Mision/Mision'
 import Sucursales from '../Sucursales/Sucursales'
 import MyContextProvider from '../MyContext/MyContext'
+import InsumosHome from '../InsumosHome/InsumosHome'
 
 
 const ContenedorPrincipal = () => {
   return (
     <div className='ContenedorPrincipal'>
-      <Mision/>
       <MyContextProvider>
-        <Sucursales />
+        <Mision/>
+        <Sucursales/>
+        <InsumosHome/>
       </MyContextProvider>
     </div>
   )
